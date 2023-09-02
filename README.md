@@ -3,6 +3,9 @@
 ## Description
 Repository for people to practive how to use git/GitHub
 
+## Link
+https://github.com/ohio-software-development/LearnGit/tree/main
+
 ## How to use this repository
 Follow along with the document located below. It you can clone, move between branches, create new branches, and create a pull request, you should be able to use the Software Development Club GitHub.
 
