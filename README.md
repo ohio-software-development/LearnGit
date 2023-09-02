@@ -8,4 +8,5 @@ Follow along with the document located below. It you can clone, move between bra
 
 ## Software developemnt git/GitHub usage Document
 
-
+## Members
+- Alex Bikowski (ab641020@ohio.edu)
