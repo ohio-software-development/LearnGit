@@ -13,3 +13,4 @@ Follow along with the document located below. It you can clone, move between bra
 
 ## Members
 - Alex Bikowski (ab641020@ohio.edu)
+- Michael Tan (mt912321@ohio.edu)
