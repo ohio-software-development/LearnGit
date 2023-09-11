@@ -15,3 +15,4 @@ Updated version will be posted before September 11th 2023.
 ## Members
 - Alex Bikowski (ab641020@ohio.edu)
 nathan bach
+- Brendan Smyers (bs602422@ohio.edu)
